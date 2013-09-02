@@ -1,4 +1,4 @@
-SOURCE=allup fix_whitespace sms battery_check.sh svn_add_unknown.sh
+SOURCE=sms battery_check.sh
 PREFIX=~/bin
 
 .PHONY: install
